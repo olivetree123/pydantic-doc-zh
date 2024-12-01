@@ -26,6 +26,7 @@ export default defineUserConfig({
     lastUpdated: false,
     contributors: false,
     createTime: false,
+    navbar: false,
 
     plugins: {
       readingTime: false,
