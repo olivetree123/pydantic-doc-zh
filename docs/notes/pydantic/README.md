@@ -1,5 +1,6 @@
 ---
 title: 入门
+navbar: false
 ---
 
 - [安装](./bar.md)
