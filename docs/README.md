@@ -14,5 +14,5 @@ config:
         -
           theme: alt
           text: 查看文档
-          link: /blog/
+          link: /notes/demo/README.md
 ---
