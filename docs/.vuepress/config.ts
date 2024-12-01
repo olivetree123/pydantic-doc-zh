@@ -23,10 +23,13 @@ export default defineUserConfig({
   theme: plumeTheme({
     // 添加您的部署域名
     // hostname: 'https://your_site_url',
+    lastUpdated: false,
     contributors: false,
+    createTime: false,
 
     plugins: {
       readingTime: false,
+      
       /**
        * Shiki 代码高亮
        * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
