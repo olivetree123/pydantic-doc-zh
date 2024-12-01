@@ -2,7 +2,7 @@
 
 [build]
 publish = "docs/.vuepress/dist"
-command = "npm run docs:build"
+command = "npm install && npm run docs:build"
 
 [build.environment]
 NODE_VERSION = "20"
