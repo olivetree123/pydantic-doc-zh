@@ -3,8 +3,8 @@ import { defineNoteConfig, defineNotesConfig } from 'vuepress-theme-plume'
 /* =================== locale: zh-CN ======================= */
 
 const zhDemoNote = defineNoteConfig({
-  dir: 'demo',
-  link: '/demo',
+  dir: 'pydantic',
+  link: '/pydantic',
   sidebar: ['', 'foo', 'bar'],
 })
 
@@ -17,8 +17,8 @@ export const zhNotes = defineNotesConfig({
 /* =================== locale: en-US ======================= */
 
 const enDemoNote = defineNoteConfig({
-  dir: 'demo',
-  link: '/demo',
+  dir: 'pydantic',
+  link: '/pydantic',
   sidebar: ['', 'foo', 'bar'],
 })
 

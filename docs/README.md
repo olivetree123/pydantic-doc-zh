@@ -14,5 +14,5 @@ config:
         -
           theme: alt
           text: 查看文档
-          link: /notes/demo/README.md
+          link: /notes/pydantic/README.md
 ---
